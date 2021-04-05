@@ -1,4 +1,3 @@
-from instagram_private_api import Client, ClientCompatPatch, errors
 from colorama import init, Fore, Style
 from time import strftime, sleep
 from sys import exit
